@@ -1,0 +1,8 @@
+2014-07-21 12:19:17.597 cdv-s2g[4741:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-21 12:19:17.636 cdv-s2g[4741:70b] Unlimited access to network resources
+2014-07-21 12:19:17.921 cdv-s2g[4741:70b] [CDVTimer][keyboard] 23.064017ms
+2014-07-21 12:19:17.921 cdv-s2g[4741:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-21 12:19:17.922 cdv-s2g[4741:70b] [CDVTimer][statusbar] 0.534952ms
+2014-07-21 12:19:17.922 cdv-s2g[4741:70b] [CDVTimer][TotalPluginStartup] 24.668038ms
+2014-07-21 12:19:19.484 cdv-s2g[4741:70b] Resetting plugins due to page load.
+2014-07-21 12:19:21.071 cdv-s2g[4741:70b] Finished load of: file:///Users/seb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F7796CE6-34D7-44A1-A6D9-65CB5D041EBE/cdv-s2g.app/www/index.html#/tab/dash
