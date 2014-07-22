@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/sebmartel/cdv-s2g.png?label=ready&title=Ready)](https://waffle.io/sebmartel/cdv-s2g)
 Ionic App Base
 =====================
 
